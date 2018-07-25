@@ -1,0 +1,119 @@
+[
+  {
+    "id": 145,
+    "name": "Camiguin Island",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Batanes.jpg",
+    "price": 1363,
+    "priceCurrency": "PESO",
+    "lat": 12.8769218,
+    "lng": 120.3145463
+  },
+  {
+    "id": 148,
+    "name": "Malapascua Island",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/bauang%20beach.gif",
+    "price": 70,
+    "priceCurrency": "PESO",
+    "lat": 16.564152,
+    "lng": 120.320624
+  },
+  {
+    "id": 201,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/bato.gif",
+    "price": 70,
+    "priceCurrency": "PESO",
+    "lat": 16.847435,
+    "lng": 120.351380
+  },
+  {
+    "id": 205,
+    "name": "Pugad Pugo Adventure",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/pugad.gif",
+    "price": 115,
+    "priceCurrency": "PESO",
+    "lat": 16.336690,
+    "lng": 120.478871
+  },
+  {
+    "id": 210,
+    "name": "Basilica Minore of Our Lady of Charity",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/basilicahj.gif",
+    "price": 30,
+    "priceCurrency": "PESO",
+    "lat": 16.324747,
+    "lng": 120.355142
+  },
+  {
+    "id": 211,
+    "name": "Home",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/imageedit_5_7542730737.gif",
+    "price": 21,
+    "priceCurrency": "PESO",
+    "lat": 16.673660,
+    "lng": 120.400190
+  },
+  {
+    "id": 214,
+    "name": "Thunderbird Resorts Poro Point",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/thunderbird.gif",
+    "price": 20,
+    "priceCurrency": "PESO",
+    "lat": 16.612517,
+    "lng": 120.284775
+  },
+  {
+    "id": 215,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/pindangan.gif",
+    "price": 30,
+    "priceCurrency": "PESO",
+    "lat": 16.588207,
+    "lng": 120.314606
+  },
+  {
+    "id": 216,
+    "name": "Macho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/macho.gif",
+    "price": 7,
+    "priceCurrency": "PESO",
+    "lat": 16.6212054,
+    "lng": 120.3153105
+  },
+  {
+    "id": 217,
+    "name": "Tudingan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/tudingan.gif",
+    "price": 45,
+    "priceCurrency": "PESO",
+    "lat": 16.5752027,
+    "lng": 120.4152417
+  },
+  {
+    "id": 218,
+    "name": "Grape Farm",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/grape.gif",
+    "price": 60,
+    "priceCurrency": "PESO",
+    "lat": 16.4610917,
+    "lng": 120.3317155
+  },
+  {
+    "id": 219,
+    "name": "Baluarte",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/baluarte.gif",
+    "price": 27,
+    "priceCurrency": "PESO",
+    "lat": 16.856813,
+    "lng": 120.3706728
+  },
+  {
+    "id": 220,
+    "name": "Luna Church",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/lunachurch.gif",
+    "price": 35,
+    "priceCurrency": "PESO",
+    "lat": 16.8535036,
+    "lng": 120.3765828
+  }
+]
