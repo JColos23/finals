@@ -3,10 +3,10 @@
     "id": 145,
     "name": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Batanes.jpg",
-    "price": 1363,
+    "price": 1337,
     "priceCurrency": "PESO",
-    "lat": 12.8769218,
-    "lng": 120.3145463
+    "lat": 9.1685781,
+    "lng": 124.6498912
   },
   {
     "id": 148,
@@ -21,10 +21,10 @@
     "id": 201,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Puerto-Princesa-Underground-River.jpg",
-    "price": 1093,
+    "price": 1051,
     "priceCurrency": "PESO",
     "lat": 13.3087759,
-    "lng": 117.6990913
+    "lng": 117.703168
   },
   {
     "id": 205,
