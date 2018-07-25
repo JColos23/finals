@@ -4,7 +4,7 @@
     "name": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Batanes.jpg",
     "price": 1337,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 9.1685781,
     "lng": 124.6498912
   },
@@ -13,7 +13,7 @@
     "name": "Caramoan Peninsula",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Caramoan.jpg",
     "price": 797,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 15.1095279,
     "lng": 120.9106197
   },
@@ -22,7 +22,7 @@
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Puerto-Princesa-Underground-River.jpg",
     "price": 1051,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 10.0034613,
     "lng": 118.7846233
   },
@@ -31,7 +31,7 @@
     "name": "Bangui Windmills",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Bangui-Windmills.jpg",
     "price": 271,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 18.4672835,
     "lng": 120.683396
   },
@@ -40,7 +40,7 @@
     "name": "Pagsanjan Falls",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Majestic-Pagsanjan-Falls-copy.jpeg",
     "price": 381,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 14.268048,
     "lng": 121.4580738
   },
@@ -49,7 +49,7 @@
     "name": "Luneta Park",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Rizal-Monument.jpg",
     "price": 284,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 15.6336499,
     "lng": 120.0994229
   },
@@ -58,7 +58,7 @@
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Banaue-Rice-Terraces.jpg",
     "price": 253,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 16.7625844,
     "lng": 120.4082735
   },
@@ -67,7 +67,7 @@
     "name": "Hundred Islands",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Travel-Guide-Hundred-Islands-in-Alaminos-Pangasinan.jpg",
     "price": 145,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 16.3411122,
     "lng": 119.9301313
   },
@@ -76,7 +76,7 @@
     "name": "Vigan Crisologo Street",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/A-street-in-Vigan.jpg",
     "price": 132,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 17.5721611,
     "lng": 120.3867828
   },
@@ -85,7 +85,7 @@
     "name": "Sagada",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Sagada-in-the-Morning.jpeg",
     "price": 214,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 16.7666276,
     "lng": 120.3534515
   },
@@ -94,7 +94,7 @@
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Bohol.png",
     "price": 1185,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 9.8297288,
     "lng": 124.1309208
   },
@@ -103,7 +103,7 @@
     "name": "El Nido",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/El-Nido.png",
     "price": 899,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 11.197421,
     "lng": 119.450560
   },
@@ -112,7 +112,7 @@
     "name": "Bandilaan Natural Park",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/8597570806_b3fc69b488.jpg",
     "price": 1261,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 9.1878357,
     "lng": 123.5732544
   },
@@ -121,7 +121,7 @@
     "name": "Salagdoong Beach",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Salagdoong_beach-768x576.jpg",
     "price": 1275,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 9.2134243,
     "lng": 123.6792323
   },
@@ -130,7 +130,7 @@
     "name": "Island Garden Samal",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/samal_beaches.jpg",
     "price": 1753,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 7.0455662,
     "lng": 125.5899556
   },
@@ -139,7 +139,7 @@
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/imageedit_5_7542730737.gif",
     "price": 0,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 16.673961,
     "lng": 120.3981829
   }
