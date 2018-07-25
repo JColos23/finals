@@ -21,10 +21,10 @@
     "id": 201,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Puerto-Princesa-Underground-River.jpg",
-    "price": 1051,
+    "price": 1162,
     "priceCurrency": "PESO",
-    "lat": 13.3087759,
-    "lng": 117.703168
+    "lat": 9.8786097,
+    "lng": 117.3245305
   },
   {
     "id": 205,
@@ -102,10 +102,10 @@
     "id": 219,
     "name": "El Nido",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/El-Nido.png",
-    "price": 906,
+    "price": 899,
     "priceCurrency": "PESO",
-    "lat": 13.8263386,
-    "lng": 117.9007549
+    "lat": 11.197421,
+    "lng": 119.450560
   },
   {
     "id": 220,
