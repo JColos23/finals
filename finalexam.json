@@ -138,7 +138,7 @@
     "id": 223,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/samal_beaches.jpg",
-    "price": ,
+    "price": 0,
     "priceCurrency": "PESO",
     "lat": 16.673961,
     "lng": 120.3981829
