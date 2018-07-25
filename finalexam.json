@@ -21,10 +21,10 @@
     "id": 201,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Puerto-Princesa-Underground-River.jpg",
-    "price": 1162,
+    "price": 1051,
     "priceCurrency": "PESO",
-    "lat": 9.8786097,
-    "lng": 117.3245305
+    "lat": 9.9148613,
+    "lng": 118.4709554
   },
   {
     "id": 205,
@@ -93,10 +93,10 @@
     "id": 218,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Bohol.png",
-    "price": 1210,
+    "price": 1185,
     "priceCurrency": "PESO",
-    "lat": 13.2518787,
-    "lng": 119.9881318
+    "lat": 9.8297288,
+    "lng": 124.1309208
   },
   {
     "id": 219,
