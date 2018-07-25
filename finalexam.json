@@ -10,110 +10,128 @@
   },
   {
     "id": 148,
-    "name": "Malapascua Island",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/bauang%20beach.gif",
-    "price": 70,
+    "name": "Caramoan Peninsula",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Caramoan.jpg",
+    "price": 797,
     "priceCurrency": "PESO",
-    "lat": 16.564152,
-    "lng": 120.320624
+    "lat": 15.1095279,
+    "lng": 120.9106197
   },
   {
     "id": 201,
-    "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/bato.gif",
-    "price": 70,
+    "name": "Puerto Princesa Underground River",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Puerto-Princesa-Underground-River.jpg",
+    "price": 1093,
     "priceCurrency": "PESO",
-    "lat": 16.847435,
-    "lng": 120.351380
+    "lat": 13.3087759,
+    "lng": 117.6990913
   },
   {
     "id": 205,
-    "name": "Pugad Pugo Adventure",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/pugad.gif",
-    "price": 115,
+    "name": "Bangui Windmills",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Bangui-Windmills.jpg",
+    "price": 271,
     "priceCurrency": "PESO",
-    "lat": 16.336690,
-    "lng": 120.478871
+    "lat": 17.6038226,
+    "lng": 119.9740212
   },
   {
     "id": 210,
-    "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/basilicahj.gif",
-    "price": 30,
+    "name": "Pagsanjan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Majestic-Pagsanjan-Falls-copy.jpeg",
+    "price": 381,
     "priceCurrency": "PESO",
-    "lat": 16.324747,
-    "lng": 120.355142
+    "lat": 15.426583,
+    "lng": 119.768383
   },
   {
     "id": 211,
-    "name": "Home",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/imageedit_5_7542730737.gif",
-    "price": 21,
+    "name": "Luneta Park",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Rizal-Monument.jpg",
+    "price": 284,
     "priceCurrency": "PESO",
-    "lat": 16.673660,
-    "lng": 120.400190
+    "lat": 15.6336499,
+    "lng": 120.0994229
   },
   {
     "id": 214,
-    "name": "Thunderbird Resorts Poro Point",
+    "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/thunderbird.gif",
-    "price": 20,
+    "price": 253,
     "priceCurrency": "PESO",
-    "lat": 16.612517,
-    "lng": 120.284775
+    "lat": 16.7625844,
+    "lng": 120.4082735
   },
   {
     "id": 215,
-    "name": "Pindangan Ruins",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/pindangan.gif",
-    "price": 30,
+    "name": "Hundred Islands",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Travel-Guide-Hundred-Islands-in-Alaminos-Pangasinan.jpg",
+    "price": 145,
     "priceCurrency": "PESO",
-    "lat": 16.588207,
-    "lng": 120.314606
+    "lat": 16.3411122,
+    "lng": 119.9301313
   },
   {
     "id": 216,
-    "name": "Macho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/macho.gif",
-    "price": 7,
+    "name": "Vigan Crisologo Street",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/A-street-in-Vigan.jpg",
+    "price": 132,
     "priceCurrency": "PESO",
-    "lat": 16.6212054,
-    "lng": 120.3153105
+    "lat": 17.1331726,
+    "lng": 120.136208
   },
   {
     "id": 217,
-    "name": "Tudingan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/tudingan.gif",
-    "price": 45,
+    "name": "Sagada",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Sagada-in-the-Morning.jpeg",
+    "price": 214,
     "priceCurrency": "PESO",
-    "lat": 16.5752027,
-    "lng": 120.4152417
+    "lat": 16.7666276,
+    "lng": 120.3534515
   },
   {
     "id": 218,
-    "name": "Grape Farm",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/grape.gif",
-    "price": 60,
+    "name": "Chocolate Hills",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Bohol.png",
+    "price": 1210,
     "priceCurrency": "PESO",
-    "lat": 16.4610917,
-    "lng": 120.3317155
+    "lat": 13.2518787,
+    "lng": 119.9881318
   },
   {
     "id": 219,
-    "name": "Baluarte",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/baluarte.gif",
-    "price": 27,
+    "name": "El Nido",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/El-Nido.png",
+    "price": 906,
     "priceCurrency": "PESO",
-    "lat": 16.856813,
-    "lng": 120.3706728
+    "lat": 13.8263386,
+    "lng": 117.9007549
   },
   {
     "id": 220,
-    "name": "Luna Church",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/lunachurch.gif",
-    "price": 35,
+    "name": "Bandilaan Natural Park",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/8597570806_b3fc69b488.jpg",
+    "price": 1262,
     "priceCurrency": "PESO",
-    "lat": 16.8535036,
-    "lng": 120.3765828
+    "lat": 12.9324519,
+    "lng": 119.7168888
+  },
+  {
+    "id": 221,
+    "name": "Salagdoong Beach",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Salagdoong_beach-768x576.jpg",
+    "price": 1276,
+    "priceCurrency": "PESO",
+    "lat": 12.9438113,
+    "lng": 119.7562505
+  },
+  {
+    "id": 222,
+    "name": "Island Garden Samal",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/samal_beaches.jpg",
+    "price": 1779,
+    "priceCurrency": "PESO",
+    "lat": 11.8584888,
+    "lng": 118.7079608
   }
 ]
